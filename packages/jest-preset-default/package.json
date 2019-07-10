@@ -35,7 +35,7 @@
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.10.0",
     "enzyme-to-json": "^3.3.5",
-    "snyk": "^1.190.0"
+    "snyk": "^1.192.4"
   },
   "peerDependencies": {
     "jest": ">=24"
