@@ -32,3 +32,25 @@ patch:
         patched: '2019-07-04T07:52:29.043Z'
     - '@wordpress/edit-post > @wordpress/format-library > @wordpress/editor > @wordpress/nux > @wordpress/components > @wordpress/rich-text > @wordpress/data > @wordpress/compose > @wordpress/element > lodash':
         patched: '2019-07-04T07:52:29.043Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2019-07-10T08:30:10.107Z'
+    - snyk > lodash:
+        patched: '2019-07-10T08:30:10.107Z'
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2019-07-10T08:30:10.107Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-07-10T08:30:10.107Z'
+    - snyk > inquirer > lodash:
+        patched: '2019-07-10T08:30:10.107Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2019-07-10T08:30:10.107Z'
+    - snyk > snyk-config > lodash:
+        patched: '2019-07-10T08:30:10.107Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-07-10T08:30:10.107Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-07-10T08:30:10.107Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-07-10T08:30:10.107Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-07-10T08:30:10.107Z'
