@@ -27,7 +27,7 @@
     "@wordpress/scripts": "file:../scripts",
     "expect-puppeteer": "^4.0.0",
     "lodash": "^4.17.11",
-    "snyk": "^1.189.0"
+    "snyk": "^1.192.4"
   },
   "peerDependencies": {
     "jest": ">=24",
