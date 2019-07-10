@@ -20,3 +20,7 @@ patch:
         patched: '2019-07-04T05:32:44.871Z'
     - '@babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
         patched: '2019-07-04T05:32:44.871Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2019-07-10T07:49:09.552Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-07-10T07:49:09.552Z'
