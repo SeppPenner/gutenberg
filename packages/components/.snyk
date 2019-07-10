@@ -8,3 +8,7 @@ patch:
         patched: '2019-07-04T08:13:51.944Z'
     - react-dates > lodash:
         patched: '2019-07-04T08:13:51.944Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2019-07-10T08:13:19.686Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-07-10T08:13:19.686Z'
