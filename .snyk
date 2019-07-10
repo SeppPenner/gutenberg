@@ -1,0 +1,34 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-450202:
+    - '@wordpress/edit-post > @wordpress/block-library > @wordpress/editor > @wordpress/nux > @wordpress/element > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/compose > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/components > react-dates > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/format-library > @wordpress/block-editor > @wordpress/components > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/block-editor > @wordpress/components > react-dates > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/block-editor > @wordpress/blocks > @wordpress/data > @wordpress/element > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/edit-post > @wordpress/block-editor > @wordpress/components > react-dates > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/api-fetch > @wordpress/i18n > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/edit-post > @wordpress/format-library > @wordpress/editor > @wordpress/components > react-dates > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/format-library > @wordpress/block-editor > @wordpress/components > @wordpress/rich-text > @wordpress/data > @wordpress/compose > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/edit-post > @wordpress/format-library > @wordpress/editor > @wordpress/nux > @wordpress/components > react-dates > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/format-library > @wordpress/editor > @wordpress/components > @wordpress/rich-text > @wordpress/data > @wordpress/compose > @wordpress/element > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/edit-post > @wordpress/block-library > @wordpress/editor > @wordpress/nux > @wordpress/components > @wordpress/rich-text > @wordpress/compose > @wordpress/element > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
+    - '@wordpress/edit-post > @wordpress/format-library > @wordpress/editor > @wordpress/nux > @wordpress/components > @wordpress/rich-text > @wordpress/data > @wordpress/compose > @wordpress/element > lodash':
+        patched: '2019-07-04T07:52:29.043Z'
