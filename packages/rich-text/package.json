@@ -27,7 +27,7 @@
     "@wordpress/escape-html": "file:../escape-html",
     "lodash": "^4.17.11",
     "rememo": "^3.0.0",
-    "snyk": "^1.189.0"
+    "snyk": "^1.192.4"
   },
   "publishConfig": {
     "access": "public"
