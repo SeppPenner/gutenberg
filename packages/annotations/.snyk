@@ -7,6 +7,6 @@ patch:
     - lodash:
         patched: '2019-07-04T08:57:36.604Z'
     - snyk > snyk-mvn-plugin > lodash:
-        patched: '2019-07-10T08:29:11.881Z'
+        patched: '2019-07-10T08:29:14.646Z'
     - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
-        patched: '2019-07-10T08:29:11.881Z'
+        patched: '2019-07-10T08:29:14.646Z'
