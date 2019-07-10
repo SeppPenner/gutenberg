@@ -44,7 +44,7 @@
     "classnames": "^2.2.5",
     "lodash": "^4.17.11",
     "refx": "^3.0.0",
-    "snyk": "^1.189.0"
+    "snyk": "^1.192.4"
   },
   "publishConfig": {
     "access": "public"
