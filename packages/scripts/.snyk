@@ -1512,3 +1512,6 @@ patch:
         patched: '2019-07-10T08:52:45.785Z'
     - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
         patched: '2019-07-10T08:52:45.785Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - puppeteer > https-proxy-agent:
+        patched: '2019-10-04T04:37:24.673Z'
