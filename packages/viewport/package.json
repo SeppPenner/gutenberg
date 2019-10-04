@@ -26,7 +26,7 @@
     "@wordpress/data": "file:../data",
     "@wordpress/element": "file:../element",
     "lodash": "^4.17.11",
-    "snyk": "^1.192.4"
+    "snyk": "^1.231.0"
   },
   "publishConfig": {
     "access": "public"
