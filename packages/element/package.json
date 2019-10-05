@@ -27,7 +27,7 @@
     "lodash": "^4.17.11",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "snyk": "^1.189.0"
+    "snyk": "^1.231.0"
   },
   "publishConfig": {
     "access": "public"
