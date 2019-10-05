@@ -32,7 +32,7 @@
     "@babel/runtime": "^7.3.1",
     "jest-matcher-utils": "^24.0.0",
     "lodash": "^4.17.11",
-    "snyk": "^1.192.4"
+    "snyk": "^1.231.0"
   },
   "peerDependencies": {
     "jest": ">=24"
