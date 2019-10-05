@@ -51,7 +51,7 @@
     "refx": "^3.0.0",
     "rememo": "^3.0.0",
     "traverse": "^0.6.6",
-    "snyk": "^1.189.0"
+    "snyk": "^1.231.0"
   },
   "publishConfig": {
     "access": "public"
