@@ -30,7 +30,7 @@
     "memize": "^1.0.5",
     "sprintf-js": "^1.1.1",
     "tannin": "^1.0.1",
-    "snyk": "^1.192.4"
+    "snyk": "^1.231.0"
   },
   "publishConfig": {
     "access": "public"
