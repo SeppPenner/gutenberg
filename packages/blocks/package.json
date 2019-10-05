@@ -41,7 +41,7 @@
     "simple-html-tokenizer": "^0.4.1",
     "tinycolor2": "^1.4.1",
     "uuid": "^3.3.2",
-    "snyk": "^1.192.4"
+    "snyk": "^1.231.0"
   },
   "publishConfig": {
     "access": "public"
