@@ -55,7 +55,7 @@
     "@wordpress/url": "file:packages/url",
     "@wordpress/viewport": "file:packages/viewport",
     "@wordpress/wordcount": "file:packages/wordcount",
-    "snyk": "^1.258.2"
+    "snyk": "^1.260.0"
   },
   "devDependencies": {
     "@babel/core": "7.2.2",
